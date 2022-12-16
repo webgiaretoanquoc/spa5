@@ -1,0 +1,130 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+#top-bar .nav>li>a>i+span {
+	text-transform: none;color: #979797;
+	font-size: 13px;}
+#top-bar .nav>li>a>i{color: #979797;}
+.widget-title span{display: block;
+	width: 100%;
+	margin-bottom: 10px;
+	background: black; font-weight:normal;
+	padding: 9px 12px;
+	color: white;
+	letter-spacing: 0;margin-bottom:0}
+.recent-blog-posts .badge-inner{border-radius:99%}
+.recent-blog-posts {
+	font-size: 15px;
+}
+.recent-blog-posts a{color:black}
+.nav-small.nav>li.html {
+	font-size: 13px;
+	color: #979797;
+}.widget .is-divider{display:none} .box-blog-post .is-divider{display:none}
+.blog-archive .post-item .from_the_blog_excerpt {font-size:13px; font-weight:normal}
+.blog-archive .post-item{padding-bottom:0}
+.blog-archive .post-item .post-title{color: black; font-weight:normal; margin-bottom:10px}
+.blog-archive .post-sidebar{padding-left:0; border-left:0 !important}
+.blog-archive .large-9 .badge.post-date{display:none}
+.lien-he .form-tu-van{padding: 20px;
+	background: #0a0506;}
+.form-tu-van input[type='submit']{text-transform:none; margin: 0;
+	border-radius: 4px;
+	background: #0a0506;
+	color: #0a0506;
+	background-image: linear-gradient(to right, #cca05d , #fff6b3, #fff4be , #ca9e3b);}
+.uu-diem h3{    margin-bottom: 20px;
+
+	padding: 11px 20px;
+
+	font-size: 20px;
+
+	border-radius: 6px;
+	-webkit-transform: skew(-20deg);
+	-moz-transform: skew(-20deg);
+	-o-transform: skew(-20deg);
+	background: url(../../uploads/2019/01/bgtab.jpg) repeat-y;
+	background-size: 100% auto;}
+.uu-diem p{margin-bottom: 0;
+	margin-top: 4px;}
+.form-tu-van{background: rgba(0, 0, 0, 0.19);
+	padding: 25px 15px;
+	border-radius: 10px;
+	border: 1px solid #e8d485;}
+.form-tu-van .title{ 
+	margin-bottom: 15px;
+	color: white;
+	font-size:20px}
+.form-tu-van input[type='email'], .form-tu-van input[type='tel'], .form-tu-van input[type='text']{border-radius:4px; box-shadow:0px 0px; font-size:14px}
+
+.header-main {
+
+	background: url(../../uploads/2019/01/header-border.png);
+	background-repeat: repeat-x;
+	background-position-y: 53px;
+}#logo img {
+	max-height: 132px;
+	z-index: 99999;
+	position: absolute;
+	top: 0px;
+}
+.header-main .nav > li{margin:0}
+.header-main .nav > li a{padding-left:14px; padding-right:14px}
+.header-main .nav > li .button{    border-radius: 99px;
+	text-transform: none;
+	background-image: linear-gradient(to right, #ccaa5d , #fff6b3, #fff4be , #ca973b);
+}
+.absolute-footer.dark{font-size:13px}
+.nav-small.nav>li.html{font-family:"oswald", sans-serif;}
+.form-tu-van .title, .form-tu-van input[type='submit']{font-family:"oswald", sans-serif; font-size:22px; font-weight:normal}
+#footer h3{font-weight:normal}
+.header-main .nav > li .button span, .button span{    color: #0a0506;
+
+	font-family: "oswald", sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+.header-main .nav li .button:hover{box-shadow:1px 1px 15px #443e35}
+.quy-trinh .medium-3 {flex-basis:20%; max-width:20%}
+.uu-diem h4{    text-align: left;
+	color: #fcca03;
+	font-size: 19px;}
+.single-post .post-sidebar{padding-left: 0;
+	border-left: 0 !important;
+}
+.single-post .entry-content{font-size:15px}
+.single-post .entry-title{font-size:26px}
+.single-post .entry-category a{color:#ffecb0}
+.single-post .is-divider {display:none}
+.single-post .entry-meta{font-size:13px; color:#efcc97}
+.ai-nen .video{padding-top: 52%;
+	border: 5px solid #d6ab57;}
+.page-title-inner {min-height:165px !important}
+.header-main .nav > li a{font-weight:normal; font-size:18px}
+@media (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+	#logo img {
+		max-height: 58px;
+		top: 0px;position: relative;
+	}
+	.quy-trinh .medium-3, .blog-archive .post-item{flex-basis:50%; max-width:50%}
+	.stuck .header-main .nav > li > a{padding:0 !important}
+	.blog-archive .post-item .post-title{font-size:15px}
+	.blog-archive .post-sidebar, .blog-single .post-sidebar{display:none}
+	.header-main .nav > li a{padding:0 !important}
+	.blog-archive .post-item:nth-child(2n+1){padding-right:7px; }
+	.blog-archive .post-item:nth-child(2n+2){padding-left:7px; }
+	.icon-box .icon-box-img{padding-top:30px}
+
+
+}

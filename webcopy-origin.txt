@@ -1,0 +1,980 @@
+Uri: https://fonts.googleapis.com/css?family=Oswald:regular%2Cregular%2Cregular|Roboto:regular%2Cregular|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252F4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252F5-meo-cham-soc-da-tai-hai-nhung-van-duoc-su-dung-rong-rai%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252F5-nguyen-lieu-lam-dep-da-tu-thoi-co-dai-van-duoc-dung-den-nay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fan-gi-de-tang-can-nhanh-nhat-cho-nguoi-gay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fbi-quyet-chong-lao-hoa-ngay-tu-che-do-an-uong-hang-ngay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fbi-quyet-de-song-cung-voi-cham-da%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fco-nen-hoc-nghe-nail-hay-khong-hoc-nghe-nail-lieu-tuong-lai-co-kha-quan-lam-nail-luong-bao-nhieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fco-nen-hoc-noi-mi-khong-hoc-noi-mi-co-ban-co-kho-khong-hoc-trong-bao-lau-thi-ra-nghe%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fhoc-nghe-spa-o-dau-tot-o-tp-hcm-bi-quyet-lua-chon-truong-dao-tao-spa%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fhoc-noi-mi-de-hay-kho%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fhoc-phi-hoc-phun-xam-tham-my-het-bao-nhieu-tien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fhuong-dan-cach-cham-soc-da-mat-hang-ngay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fkhoa-hoc-nail%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fkhoa-hoc-noi-mi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fkhoa-hoc-phun-xam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fkhoa-hoc-spa-cham-soc-da%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fkhoa-hoc-spa-massage-body%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fkhoa-hoc-trang-diem%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fkhoa-xam-hinh-nghe-thuat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fnhung-bai-tap-dot-chay-mo-bung-nhanh-chong-an-toan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fnhung-dieu-can-biet-khi-hoc-spa%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fnhung-meo-nho-giup-ban-lam-giam-nep-nhan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fquan-quan-trang-diem-chau-a-gold-brands-of-asian-beauty-awards-2019-goi-ten-chuyen-gia-cuc-huong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fspa5.webtudong8giay.com%252Fthuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://spa5.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/5-meo-cham-soc-da-tai-hai-nhung-van-duoc-su-dung-rong-rai/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\5-meo-cham-soc-da-tai-hai-nhung-van-duoc-su-dung-rong-rai\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/5-meo-cham-soc-da-tai-hai-nhung-van-duoc-su-dung-rong-rai/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\5-meo-cham-soc-da-tai-hai-nhung-van-duoc-su-dung-rong-rai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/5-nguyen-lieu-lam-dep-da-tu-thoi-co-dai-van-duoc-dung-den-nay/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\5-nguyen-lieu-lam-dep-da-tu-thoi-co-dai-van-duoc-dung-den-nay\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/5-nguyen-lieu-lam-dep-da-tu-thoi-co-dai-van-duoc-dung-den-nay/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\5-nguyen-lieu-lam-dep-da-tu-thoi-co-dai-van-duoc-dung-den-nay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/an-gi-de-tang-can-nhanh-nhat-cho-nguoi-gay/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\an-gi-de-tang-can-nhanh-nhat-cho-nguoi-gay\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/an-gi-de-tang-can-nhanh-nhat-cho-nguoi-gay/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\an-gi-de-tang-can-nhanh-nhat-cho-nguoi-gay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/bi-quyet-chong-lao-hoa-ngay-tu-che-do-an-uong-hang-ngay/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\bi-quyet-chong-lao-hoa-ngay-tu-che-do-an-uong-hang-ngay\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/bi-quyet-chong-lao-hoa-ngay-tu-che-do-an-uong-hang-ngay/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\bi-quyet-chong-lao-hoa-ngay-tu-che-do-an-uong-hang-ngay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/bi-quyet-de-song-cung-voi-cham-da/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\bi-quyet-de-song-cung-voi-cham-da\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/bi-quyet-de-song-cung-voi-cham-da/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\bi-quyet-de-song-cung-voi-cham-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/category/dao-tao/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\category\dao-tao\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/category/lam-dep/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\category\lam-dep\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/category/lam-dep/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\category\lam-dep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/category/lam-dep/page/2/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\category\lam-dep\page\2\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/co-nen-hoc-nghe-nail-hay-khong-hoc-nghe-nail-lieu-tuong-lai-co-kha-quan-lam-nail-luong-bao-nhieu/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\co-nen-hoc-nghe-nail-hay-khong-hoc-nghe-nail-lieu-tuong-lai-co-kha-quan-lam-nail-luong-bao-nhieu\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/co-nen-hoc-nghe-nail-hay-khong-hoc-nghe-nail-lieu-tuong-lai-co-kha-quan-lam-nail-luong-bao-nhieu/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\co-nen-hoc-nghe-nail-hay-khong-hoc-nghe-nail-lieu-tuong-lai-co-kha-quan-lam-nail-luong-bao-nhieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/co-nen-hoc-noi-mi-khong-hoc-noi-mi-co-ban-co-kho-khong-hoc-trong-bao-lau-thi-ra-nghe/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\co-nen-hoc-noi-mi-khong-hoc-noi-mi-co-ban-co-kho-khong-hoc-trong-bao-lau-thi-ra-nghe\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/co-nen-hoc-noi-mi-khong-hoc-noi-mi-co-ban-co-kho-khong-hoc-trong-bao-lau-thi-ra-nghe/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\co-nen-hoc-noi-mi-khong-hoc-noi-mi-co-ban-co-kho-khong-hoc-trong-bao-lau-thi-ra-nghe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/hoc-nghe-spa-o-dau-tot-o-tp-hcm-bi-quyet-lua-chon-truong-dao-tao-spa/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\hoc-nghe-spa-o-dau-tot-o-tp-hcm-bi-quyet-lua-chon-truong-dao-tao-spa\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/hoc-nghe-spa-o-dau-tot-o-tp-hcm-bi-quyet-lua-chon-truong-dao-tao-spa/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\hoc-nghe-spa-o-dau-tot-o-tp-hcm-bi-quyet-lua-chon-truong-dao-tao-spa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/hoc-noi-mi-de-hay-kho/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\hoc-noi-mi-de-hay-kho\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/hoc-noi-mi-de-hay-kho/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\hoc-noi-mi-de-hay-kho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/hoc-phi-hoc-phun-xam-tham-my-het-bao-nhieu-tien/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\hoc-phi-hoc-phun-xam-tham-my-het-bao-nhieu-tien\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/hoc-phi-hoc-phun-xam-tham-my-het-bao-nhieu-tien/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\hoc-phi-hoc-phun-xam-tham-my-het-bao-nhieu-tien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/huong-dan-cach-cham-soc-da-mat-hang-ngay/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\huong-dan-cach-cham-soc-da-mat-hang-ngay\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/huong-dan-cach-cham-soc-da-mat-hang-ngay/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\huong-dan-cach-cham-soc-da-mat-hang-ngay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-nail/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-nail\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-nail/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-nail\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-noi-mi/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-noi-mi\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-noi-mi/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-noi-mi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-phun-xam/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-phun-xam\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-phun-xam/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-phun-xam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-spa-cham-soc-da/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-spa-cham-soc-da\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-spa-cham-soc-da/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-spa-cham-soc-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-spa-massage-body/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-spa-massage-body\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-spa-massage-body/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-spa-massage-body\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-trang-diem/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-trang-diem\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/khoa-hoc-trang-diem/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-hoc-trang-diem\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/khoa-xam-hinh-nghe-thuat/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-xam-hinh-nghe-thuat\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/khoa-xam-hinh-nghe-thuat/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\khoa-xam-hinh-nghe-thuat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/nhung-bai-tap-dot-chay-mo-bung-nhanh-chong-an-toan/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\nhung-bai-tap-dot-chay-mo-bung-nhanh-chong-an-toan\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/nhung-bai-tap-dot-chay-mo-bung-nhanh-chong-an-toan/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\nhung-bai-tap-dot-chay-mo-bung-nhanh-chong-an-toan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/nhung-dieu-can-biet-khi-hoc-spa/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\nhung-dieu-can-biet-khi-hoc-spa\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/nhung-dieu-can-biet-khi-hoc-spa/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\nhung-dieu-can-biet-khi-hoc-spa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/nhung-meo-nho-giup-ban-lam-giam-nep-nhan/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\nhung-meo-nho-giup-ban-lam-giam-nep-nhan\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/nhung-meo-nho-giup-ban-lam-giam-nep-nhan/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\nhung-meo-nho-giup-ban-lam-giam-nep-nhan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/quan-quan-trang-diem-chau-a-gold-brands-of-asian-beauty-awards-2019-goi-ten-chuyen-gia-cuc-huong/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\quan-quan-trang-diem-chau-a-gold-brands-of-asian-beauty-awards-2019-goi-ten-chuyen-gia-cuc-huong\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/quan-quan-trang-diem-chau-a-gold-brands-of-asian-beauty-awards-2019-goi-ten-chuyen-gia-cuc-huong/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\quan-quan-trang-diem-chau-a-gold-brands-of-asian-beauty-awards-2019-goi-ten-chuyen-gia-cuc-huong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/thuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\thuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong\index.htm
+Content Type: text/html
+
+Uri: https://spa5.webtudong8giay.com/thuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\thuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://spa5.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://spa5.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://spa5.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://spa5.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/01/bgtab.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\01\bgtab.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/01/header-border.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\01\header-border.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/01/nhung-ai-nen-ap-dung.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\01\nhung-ai-nen-ap-dung.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/02/footer.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\02\footer.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/09/logo-crystal-spa.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\09\logo-crystal-spa.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/70187983_655071695004990_8106891912415281152_n-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\70187983_655071695004990_8106891912415281152_n-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/70187983_655071695004990_8106891912415281152_n.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\70187983_655071695004990_8106891912415281152_n.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/banner01-1024x341-dnag-ky-tu-van.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\banner01-1024x341-dnag-ky-tu-van.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/banner01-1024x341-thay-lam.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\banner01-1024x341-thay-lam.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/che-do-an-uong-1024x1280-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\che-do-an-uong-1024x1280-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/che-do-an-uong-1024x1280.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\che-do-an-uong-1024x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/chon-nghe-spa-de-lam-dep-cho-doi-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\chon-nghe-spa-de-lam-dep-cho-doi-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/chon-nghe-spa-de-lam-dep-cho-doi-2.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\chon-nghe-spa-de-lam-dep-cho-doi-2.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/cropped-banner-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\cropped-banner-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/cropped-banner-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\cropped-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/cropped-logo-ts-180x180.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\cropped-logo-ts-180x180.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/cropped-logo-ts-192x192.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\cropped-logo-ts-192x192.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/cropped-logo-ts-32x32.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\cropped-logo-ts-32x32.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/gallery_original-47-150x150.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\gallery_original-47-150x150.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/gallery_original-47.png
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\gallery_original-47.png
+Content Type: image/png
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-master-phun-xam-6-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-master-phun-xam-6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-master-phun-xam-6.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-master-phun-xam-6.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-nail-5-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-nail-5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-nail-5.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-nail-5.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-noi-mi-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-noi-mi-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-noi-mi-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-noi-mi-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-phun-xam-6-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-phun-xam-6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-phun-xam-6.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-phun-xam-6.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-spa-cham-soc-da-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-spa-cham-soc-da-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-spa-cham-soc-da.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-spa-cham-soc-da.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-spa-massage-body-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-spa-massage-body-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-spa-massage-body-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-spa-massage-body-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-trang-diem-3-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-trang-diem-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khoa-hoc-trang-diem-3.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khoa-hoc-trang-diem-3.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khong_co_thoi_gian_2-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khong_co_thoi_gian_2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/khong_co_thoi_gian_2.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\khong_co_thoi_gian_2.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/lam-dep-da-olive-1024x683-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\lam-dep-da-olive-1024x683-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/lam-dep-da-olive-1024x683-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\lam-dep-da-olive-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/nhung-meo-nho-giup-ban-lam-giam-nep-nhan-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\nhung-meo-nho-giup-ban-lam-giam-nep-nhan-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/nhung-meo-nho-giup-ban-lam-giam-nep-nhan-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\nhung-meo-nho-giup-ban-lam-giam-nep-nhan-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/sai_lam_khi_duong_da_xzingnews_1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\sai_lam_khi_duong_da_xzingnews_1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/sai_lam_khi_duong_da_xzingnews_1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\sai_lam_khi_duong_da_xzingnews_1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/thuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong-1-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\thuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong-1-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/thuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong-1-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\thuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/top-6-thuc-pham-nen-an-vao-buoi-toi-de-vua-giam-can-lai-vua-dep-da-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\top-6-thuc-pham-nen-an-vao-buoi-toi-de-vua-giam-can-lai-vua-dep-da-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/10/top-6-thuc-pham-nen-an-vao-buoi-toi-de-vua-giam-can-lai-vua-dep-da-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\10\top-6-thuc-pham-nen-an-vao-buoi-toi-de-vua-giam-can-lai-vua-dep-da-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/11/89070d7c0d55eb0bb244-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\11\89070d7c0d55eb0bb244-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/11/89070d7c0d55eb0bb244.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\11\89070d7c0d55eb0bb244.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/11/hoc-noi-mi-co-ban-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\11\hoc-noi-mi-co-ban-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/11/hoc-noi-mi-co-ban-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\11\hoc-noi-mi-co-ban-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/11/hoc-noi-mi-de-hay-kho-e1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\11\hoc-noi-mi-de-hay-kho-e1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/11/hoc-noi-mi-de-hay-kho-e1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\11\hoc-noi-mi-de-hay-kho-e1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/11/thoi-gian-hoc-nghe-nail-mat-bao-lau-5-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\11\thoi-gian-hoc-nghe-nail-mat-bao-lau-5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/11/thoi-gian-hoc-nghe-nail-mat-bao-lau-5.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\11\thoi-gian-hoc-nghe-nail-mat-bao-lau-5.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/12/co-nen-hoc-nghe-spa-khong-lam-nghe-spa-luong-bao-nhieu-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\12\co-nen-hoc-nghe-spa-khong-lam-nghe-spa-luong-bao-nhieu-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-content/uploads/2019/12/co-nen-hoc-nghe-spa-khong-lam-nghe-spa-luong-bao-nhieu-1.jpg
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-content\uploads\2019\12\co-nen-hoc-nghe-spa-khong-lam-nghe-spa-luong-bao-nhieu-1.jpg
+Content Type: image/jpeg
+
+Uri: https://spa5.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://spa5.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://spa5.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://spa5.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://spa5.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2F4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2F4-cong-thuc-tang-can-tu-sua-dac-thanh-gay-cung-beo-len-nhanh-chong%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2F5-meo-cham-soc-da-tai-hai-nhung-van-duoc-su-dung-rong-rai%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2F5-meo-cham-soc-da-tai-hai-nhung-van-duoc-su-dung-rong-rai%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2F5-nguyen-lieu-lam-dep-da-tu-thoi-co-dai-van-duoc-dung-den-nay%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2F5-nguyen-lieu-lam-dep-da-tu-thoi-co-dai-van-duoc-dung-den-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fan-gi-de-tang-can-nhanh-nhat-cho-nguoi-gay%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fan-gi-de-tang-can-nhanh-nhat-cho-nguoi-gay%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fbi-quyet-chong-lao-hoa-ngay-tu-che-do-an-uong-hang-ngay%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fbi-quyet-chong-lao-hoa-ngay-tu-che-do-an-uong-hang-ngay%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fbi-quyet-de-song-cung-voi-cham-da%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fbi-quyet-de-song-cung-voi-cham-da%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fco-nen-hoc-nghe-nail-hay-khong-hoc-nghe-nail-lieu-tuong-lai-co-kha-quan-lam-nail-luong-bao-nhieu%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fco-nen-hoc-nghe-nail-hay-khong-hoc-nghe-nail-lieu-tuong-lai-co-kha-quan-lam-nail-luong-bao-nhieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fco-nen-hoc-noi-mi-khong-hoc-noi-mi-co-ban-co-kho-khong-hoc-trong-bao-lau-thi-ra-nghe%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fco-nen-hoc-noi-mi-khong-hoc-noi-mi-co-ban-co-kho-khong-hoc-trong-bao-lau-thi-ra-nghe%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fhoc-nghe-spa-o-dau-tot-o-tp-hcm-bi-quyet-lua-chon-truong-dao-tao-spa%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fhoc-nghe-spa-o-dau-tot-o-tp-hcm-bi-quyet-lua-chon-truong-dao-tao-spa%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fhoc-noi-mi-de-hay-kho%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fhoc-noi-mi-de-hay-kho%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fhoc-phi-hoc-phun-xam-tham-my-het-bao-nhieu-tien%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fhoc-phi-hoc-phun-xam-tham-my-het-bao-nhieu-tien%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fhuong-dan-cach-cham-soc-da-mat-hang-ngay%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fhuong-dan-cach-cham-soc-da-mat-hang-ngay%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-nail%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-nail%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-noi-mi%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-noi-mi%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-phun-xam%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-phun-xam%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-spa-cham-soc-da%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-spa-cham-soc-da%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-spa-massage-body%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-spa-massage-body%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-trang-diem%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-hoc-trang-diem%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-xam-hinh-nghe-thuat%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fkhoa-xam-hinh-nghe-thuat%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fnhung-bai-tap-dot-chay-mo-bung-nhanh-chong-an-toan%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fnhung-bai-tap-dot-chay-mo-bung-nhanh-chong-an-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fnhung-dieu-can-biet-khi-hoc-spa%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fnhung-dieu-can-biet-khi-hoc-spa%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fnhung-meo-nho-giup-ban-lam-giam-nep-nhan%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fnhung-meo-nho-giup-ban-lam-giam-nep-nhan%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fquan-quan-trang-diem-chau-a-gold-brands-of-asian-beauty-awards-2019-goi-ten-chuyen-gia-cuc-huong%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fquan-quan-trang-diem-chau-a-gold-brands-of-asian-beauty-awards-2019-goi-ten-chuyen-gia-cuc-huong%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fthuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong%2F
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fspa5.webtudong8giay.com%2Fthuc-don-mot-tuan-cho-nguoi-gay-tang-can-nhanh-chong%2F&format=xml
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/pages/54
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\pages\54
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1026
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1026
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1031
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1031
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1039
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1039
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1047
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1047
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1055
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1055
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1062
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1062
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1091
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1091
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1104
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1104
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1109
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1109
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1121
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1121
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1132
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1132
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1143
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1143
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1161
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1161
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1178
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1178
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1202
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1202
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1209
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1209
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1222
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1222
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/1234
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\1234
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/916
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\916
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/930
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\930
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/941
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\941
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/955
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\955
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/969
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\969
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/wp-json/wp/v2/posts/985
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\wp-json\wp\v2\posts\985
+Content Type: application/json
+
+Uri: https://spa5.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\spa5.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
